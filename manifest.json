@@ -1,0 +1,20 @@
+{
+  "name": "ОЗВУЧИТЬ ТЕКСТ",
+  "description": "Озвучивает выбранный текст",
+  "version": "0.2",
+  "permissions": [
+    "tts",
+    "contextMenus"
+  ],
+  "background": {
+    "scripts": [
+      "background.min.js"
+    ]
+  },
+  "icons": {
+    "16": "unnamed.png",
+    "48": "unnamed.png",
+    "128": "unnamed.png"
+  },
+  "manifest_version": 2
+}
